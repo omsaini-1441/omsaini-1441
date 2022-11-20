@@ -8,7 +8,7 @@ Web developer | Coder
 ⭐An experienced C++ programmer, good at problem-solving, and a curious web developer, ready to acquire new skills in this domain as I explore my interests.
 
 * 🌍  I'm based in nangal, punjab
-* ✉️  You can contact me at [omsaini1441@gmail.com](mailto:omsaini1441@gmail.com )
+* ✉️  You can contact me at [omsaini1441@gmail.com](mailto:omsaini.tech@gmail.com )
 * 🧠  I'm learning web development while bolstering my grip on DSA.
 
 ### Skills
