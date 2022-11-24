@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Saini</h1>
-<h3 align="center">A passionate frontend⭐I am a Fast learner, results-oriented student, utilizing skills in the Computer Science field to drive goals. ⭐An experienced C++ programmer, good at problem-solving, and a curious web developer, ready to acquire new skills in this domain as I explore my interests. developer from India</h3>
+<h3 align="center">A passionate frontend⭐I am a Fast learner, results-oriented student, utilizing skills in the Computer Science field to drive goals. ⭐An experienced C++ programmer, good at problem-solving, and a curious web developer, ready to acquire new skills in this domain as I explore my interests.</h3>
 
 - 📫 How to reach me **omsaini.tech@gmail.com**
 
